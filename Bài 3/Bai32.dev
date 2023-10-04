@@ -1,6 +1,6 @@
 [Project]
-FileName=Bai31.dev
-Name=Bai31
+FileName=Bai32.dev
+Name=Bai32
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=Bai31.c
+FileName=Bai32.c
 CompileCpp=0
 Folder=
 Compile=1
