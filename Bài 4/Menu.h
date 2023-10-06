@@ -43,7 +43,7 @@ void XuLyMenu()
 		break;
 	case 2:
 		cout << "2. Kiem tra so nguyen to\n";
-	//	cout << TimSoNT(5);
+	    cout << TimSoNT(7);
 		break;
 	case 3:
 		cout << "3. Tong cac so nguyen to\n";
