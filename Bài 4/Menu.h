@@ -1,4 +1,4 @@
-//#include "Lib.h"
+#include "Lib.h"
 #include <iostream>
 using namespace std;
 
@@ -39,7 +39,7 @@ void XuLyMenu()
 	{
 	case 1:		
 		cout << "1. Vua ga vua cho.\n";
-		//VuaGaVuaCho();
+		VuaGaVuaCho();
 		break;
 	case 2:
 		cout << "2. Kiem tra so nguyen to\n";
