@@ -1,6 +1,6 @@
 [Project]
-FileName=HelloWorld.dev
-Name=HelloWorld
+FileName=ChuVi.dev
+Name=Project1
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=HelloWorld.c
+FileName=ChuVi.c
 CompileCpp=0
 Folder=
 Compile=1
