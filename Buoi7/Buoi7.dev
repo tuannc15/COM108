@@ -1,6 +1,6 @@
 [Project]
-FileName=Buoi6.dev
-Name=Buoi6
+FileName=Buoi7.dev
+Name=Buoi7
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=Buoi6.c
+FileName=Buoi7.c
 CompileCpp=0
 Folder=
 Compile=1
